@@ -8,15 +8,15 @@ Any errors in the CSV file, will cause that line to be ignored and any errors as
     Employee Name,Pay Period, Gross Income, Income Tax, Net Income, Super Payment
 
 ### Sample Output:
-  >  C:\Users\Erik Tveitnes\IdeaProjects\EmployeePayroll>gradlew.bat run
-  >  :employee-payroll:compileJava UP-TO-DATE
-  >  :employee-payroll:processResources
-  > :employee-payroll:classes
-  >  :employee-payroll:run
-  >  2017-09-05 09:10:04 INFO  EmployeePayroll:21 - ---------------------------------------------------------------
-  >  2017-09-05 09:10:04 INFO  EmployeePayroll:24 - David Rudd,01 March - 31 March,5004,922,4082,450
-  >  2017-09-05 09:10:04 INFO  EmployeePayroll:24 - Ryan Chen,01 February - 28 February,10000,2696,7304,1000
-  >  2017-09-05 09:10:04 INFO  EmployeePayroll:26 - ---------------------------------------------------------------
+    C:\Users\Erik Tveitnes\IdeaProjects\EmployeePayroll>gradlew.bat run
+    :employee-payroll:compileJava UP-TO-DATE
+    :employee-payroll:processResources
+    :employee-payroll:classes
+    :employee-payroll:run
+    2017-09-05 09:10:04 INFO  EmployeePayroll:21 - ---------------------------------------------------------------
+    2017-09-05 09:10:04 INFO  EmployeePayroll:24 - David Rudd,01 March - 31 March,5004,922,4082,450
+    2017-09-05 09:10:04 INFO  EmployeePayroll:24 - Ryan Chen,01 February - 28 February,10000,2696,7304,1000
+    2017-09-05 09:10:04 INFO  EmployeePayroll:26 - ---------------------------------------------------------------
 
 
 ### CSV input file details:
